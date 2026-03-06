@@ -1,0 +1,13 @@
+build/
+devel/
+install/
+logs/
+.catkin_tools/
+*.o
+*.so
+*.a
+*.bag
+*.pcd
+*.ulg
+__pycache__/
+.vscode/
